@@ -1,8 +1,8 @@
 {
   "notes": "支持软件内一键升级；修复安装版缺少音频引擎的问题",
-  "released": "2026-11-27 15:19",
-  "sha256": "7c28ca3385c19f30c187ab9cd81d5997c1339e5a7143a6565e3c55fbd5c15d62",
-  "size": 54404869,
+  "released": "2026-11-27 15:23",
+  "sha256": "0cac908262ae3c7b12ebf507c359d84b57f08ffb9ecb61aaa5b472ce1515c1f1",
+  "size": 54405356,
   "url": "https://github.com/slxabd/MusicCleaner-updates/releases/download/v1.2.9/MusicCleaner_update_v1.2.9.zip",
   "version": "1.2.9"
 }
