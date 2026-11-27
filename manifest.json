@@ -1,8 +1,8 @@
 {
-  "notes": "移除 SubmitHub 检测功能；保留授权、续费、软件内升级与本机扫描",
-  "released": "2026-11-27 15:45",
-  "sha256": "eb7b56e15dc53d31d3658334017316eb3983d2de3376b13995f6c0c3e1d8acdc",
-  "size": 54332811,
-  "url": "https://github.com/slxabd/MusicCleaner-updates/releases/download/v1.3.0/MusicCleaner_update_v1.3.0.zip",
-  "version": "1.3.0"
+  "notes": "移除 SubmitHub 检测；升级通道多源容错（CDN 缓存不再挡住更新）",
+  "released": "2026-11-27 15:57",
+  "sha256": "3609b138839876dd1ee6fd5f5ab53eb888893077a58d16123804a31631283c61",
+  "size": 54333807,
+  "url": "https://github.com/slxabd/MusicCleaner-updates/releases/download/v1.3.1/MusicCleaner_update_v1.3.1.zip",
+  "version": "1.3.1"
 }
